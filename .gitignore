@@ -1,0 +1,22 @@
+# 编译输出
+[Ll]ibrary
+[Tt]emp
+[Oo]bj
+[Bb]uild
+[Bb]uilds
+[Ll]ogs
+
+# 存储的资产
+[Aa]ssetsAssetStoreTools
+
+# 缓存
+[Cc]ache
+
+# 打包数据
+[Pp]ackages
+[Pp]rojectSettingsProjectVersion.txt
+
+# 其他
+.DS_Store
+.pidb.meta
+.swp
